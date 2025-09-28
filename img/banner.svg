@@ -34,7 +34,7 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.40698023"
-     inkscape:cx="1796.156"
+     inkscape:cx="1597.1292"
      inkscape:cy="512.3099"
      inkscape:window-width="1854"
      inkscape:window-height="1011"
@@ -47,7 +47,10 @@
        y="0"
        id="page8"
        width="3562.8267"
-       height="700.61499" />
+       height="700.61499"
+       inkscape:export-filename="banner.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
   </sodipodi:namedview>
   <g
      id="g10"
